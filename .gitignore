@@ -10,4 +10,9 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-/bin/
+/bin/*
+/bin1/
+!/bin/*.sh
+!/bin/*.py
+!/bin/in
+!/bin/machine_spec
